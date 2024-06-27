@@ -25,7 +25,7 @@ This project is a simple HTTP server implemented in Python 3. It can handle vari
 4. Run the server using the following command:
 
 ```sh
-python3 server.py
+python3 HttpServer.py dev.conf
 ```
 
 ### Configuration
