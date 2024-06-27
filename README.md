@@ -1,7 +1,9 @@
 ```markdown
 # Apache HTTP Server
 
-This project is a simple HTTP server implemented in Python 3. It can handle various HTTP methods such as GET, POST, PUT, DELETE, HEAD, and OPTIONS. The server supports conditional GET requests and logs errors.
+This project is a simple HTTP server implemented in Python 3. It can handle various 
+HTTP methods such as GET, POST, PUT, DELETE, HEAD, and OPTIONS. 
+The server supports conditional GET requests and logs errors.
 
 ## Features
 
